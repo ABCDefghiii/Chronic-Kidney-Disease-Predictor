@@ -74,7 +74,7 @@ jupyter → to run the .ipynb notebook
 
 
 4.Run Jupyter Notebook
-jupyter notebook
+jupyter notebook- Chronic_Kidney_Disease.ipynb
 
 5.Open Chronic_Kidney_Disease.ipynb and run the cells.
 
