@@ -1,6 +1,3 @@
-# Chronic-Kidney-Disease-Predictor
-A Machine Learning project for predicting Chronic Kidney Disease (CKD) using patient medical records. Includes data preprocessing, model training, evaluation (ROC, confusion matrix), and deployment-ready pipeline
-
 # 🩺 Chronic Kidney Disease Predictor
 
 A machine learning project to predict the likelihood of Chronic Kidney Disease (CKD) using patient medical records. The project explores data preprocessing, visualization, model building, and evaluation with metrics like confusion matrix and ROC curve.
